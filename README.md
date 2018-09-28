@@ -2,4 +2,4 @@
 Here is the small App including Pulse animation,Constraint based animation,Gradient Basic animation in CALayer
 
 
-![Demo](https://user-images.githubusercontent.com/25483293/46189923-cd87fd00-c30e-11e8-9262-0ef22a059f66.gif)
+![animations 2](https://user-images.githubusercontent.com/25483293/46190630-fd84cf80-c311-11e8-9fa1-00f70009a074.gif)
